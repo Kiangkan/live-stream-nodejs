@@ -1,0 +1,23 @@
+{
+  "name": "live-stream-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiangkan/live-stream-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiangkan/live-stream-nodejs/issues"
+  },
+  "homepage": "https://github.com/Kiangkan/live-stream-nodejs#readme",
+  "dependencies": {
+    "node-media-server": "^2.2.4"
+  }
+}
